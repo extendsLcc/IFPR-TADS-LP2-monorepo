@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/3Bim - Interface Pratica/3Bim - Interface Pratica.iml" filepath="$PROJECT_DIR$/3Bim - Interface Pratica/3Bim - Interface Pratica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CRUD_JDBC - DAO BEAN/CRUD_JDBC - DAO BEAN.iml" filepath="$PROJECT_DIR$/CRUD_JDBC - DAO BEAN/CRUD_JDBC - DAO BEAN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CRUD_JDBC- Veiculo - DAO BEAN/CRUD_JDBC- Veiculo - DAO BEAN.iml" filepath="$PROJECT_DIR$/CRUD_JDBC- Veiculo - DAO BEAN/CRUD_JDBC- Veiculo - DAO BEAN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chat/Chat.iml" filepath="$PROJECT_DIR$/Chat/Chat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hierarquia Classes/Hierarquia Classes.iml" filepath="$PROJECT_DIR$/Hierarquia Classes/Hierarquia Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Integração com Banco de Dados - Relacionamentos entre tabelas/Integração com Banco de Dados - Relacionamentos entre tabelas.iml" filepath="$PROJECT_DIR$/Integração com Banco de Dados - Relacionamentos entre tabelas/Integração com Banco de Dados - Relacionamentos entre tabelas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface Java Swing - Exercicio JTable JComboBox/Interface Java Swing - Exercicio JTable JComboBox.iml" filepath="$PROJECT_DIR$/Interface Java Swing - Exercicio JTable JComboBox/Interface Java Swing - Exercicio JTable JComboBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface Java Swing - IMC/Interface Java Swing - IMC.iml" filepath="$PROJECT_DIR$/Interface Java Swing - IMC/Interface Java Swing - IMC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface Java Swing - Tabelas/Interface Java Swing - Tabelas.iml" filepath="$PROJECT_DIR$/Interface Java Swing - Tabelas/Interface Java Swing - Tabelas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP2 - 2 Bim/LP2 - 2 Bim.iml" filepath="$PROJECT_DIR$/LP2 - 2 Bim/LP2 - 2 Bim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP2 - 3 Bim/LP2 - 3 Bim.iml" filepath="$PROJECT_DIR$/LP2 - 3 Bim/LP2 - 3 Bim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP2 - 3Bim - Interfaces/LP2 - 3Bim - Interfaces.iml" filepath="$PROJECT_DIR$/LP2 - 3Bim - Interfaces/LP2 - 3Bim - Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LP2.Everton.iml" filepath="$PROJECT_DIR$/.idea/LP2.Everton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProvaLP2-3Bim- Lucas LCC/ProvaLP2-3Bim- Lucas LCC.iml" filepath="$PROJECT_DIR$/ProvaLP2-3Bim- Lucas LCC/ProvaLP2-3Bim- Lucas LCC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Revisao Collections/Revisao Collections.iml" filepath="$PROJECT_DIR$/Revisao Collections/Revisao Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Revisão Prova LP2 3Bim/Revisão Prova LP2 3Bim.iml" filepath="$PROJECT_DIR$/Revisão Prova LP2 3Bim/Revisão Prova LP2 3Bim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trabalho 2 Bimestre/Trabalho 2 Bimestre.iml" filepath="$PROJECT_DIR$/Trabalho 2 Bimestre/Trabalho 2 Bimestre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trabalho Terminal/Trabalho Terminal.iml" filepath="$PROJECT_DIR$/Trabalho Terminal/Trabalho Terminal.iml" />
+    </modules>
+  </component>
+</project>
